@@ -1,0 +1,15 @@
+C:/Users/elwady/Downloads/DSP_FINAL/Spartan6_DSP48A1_REF.v {1 {vlog -work work -vopt -stats=none C:/Users/elwady/Downloads/DSP_FINAL/Spartan6_DSP48A1_REF.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Spartan6_DSP48A1_REF
+
+Top level modules:
+	Spartan6_DSP48A1_REF
+
+} {} {}} C:/Users/elwady/Downloads/DSP_FINAL/Spartan6_DSP48A1_DUT.v {1 {vlog -work work -vopt -stats=none C:/Users/elwady/Downloads/DSP_FINAL/Spartan6_DSP48A1_DUT.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Spartan6_DSP48A1_DUT
+
+Top level modules:
+	Spartan6_DSP48A1_DUT
+
+} {} {}}
